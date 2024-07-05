@@ -1,5 +1,5 @@
 # Link
-https://chiw.github.io/notes/
+https://chiw.github.io/coffee-notes/
 
 ## Framework used:
 astro
