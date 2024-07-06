@@ -11,6 +11,9 @@ dependencies:
   '@astrojs/starlight':
     specifier: ^0.24.5
     version: 0.24.5(astro@4.11.5)
+  '@fontsource-variable/noto-serif-tc':
+    specifier: ^5.0.1
+    version: 5.0.1
   astro:
     specifier: ^4.10.2
     version: 4.11.5(typescript@5.5.3)
@@ -724,6 +727,10 @@ packages:
     resolution: {integrity: sha512-gDdnQrfDRXw5Y+PKHJDkpAUdf2pthYOthGcgy3JB8GOTQ3EL1h+755Ct/bGc4MR6jn+dgnQP47uHMWQaccvN6Q==}
     dependencies:
       '@expressive-code/core': 0.35.3
+    dev: false
+
+  /@fontsource-variable/noto-serif-tc@5.0.1:
+    resolution: {integrity: sha512-UudwCYpgGmfE3gPvk7Kjd5oBpcBusKybmQ9BDIXN2H3Rznr4RLuZnlW2HiED63cSFvKTvPQOH8rHGcddokGHVA==}
     dev: false
 
   /@img/sharp-darwin-arm64@0.33.4:
