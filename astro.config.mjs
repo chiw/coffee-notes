@@ -7,7 +7,6 @@ export default defineConfig({
     base: 'coffee-notes',
 	integrations: [
 		starlight({
-			favicon: '/assets/misc/favicon/coffee-notes-favicon.svg',
 			title: 'Coffee Notes',
 			logo: {
 				light: './src/assets/logo-dark-100-contrailone.svg',
